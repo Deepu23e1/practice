@@ -1,0 +1,1 @@
+console.log("This is the third.js file which is successfully edited.");
